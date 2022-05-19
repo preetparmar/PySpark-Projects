@@ -1,5 +1,7 @@
 # Pivoting Data
 
+While doing a Tableau course, I came across this ETL process where I had to combine multiple CSV files and pivot them. Unfortunately, Tableau doesn't allow us to pivot data that comes from different connections. The quickest way I could think of doing that was using Python, that's how I ended up creating this project.
+
 ## Project Requirement
 
 - We have multiple CSV files with Date and Stock values
