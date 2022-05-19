@@ -1,6 +1,6 @@
 # Pivoting Data
 
-While doing a Tableau course, I came across this ETL process where I had to combine multiple CSV files and pivot them. Unfortunately, Tableau doesn't allow us to pivot data that comes from different connections. The quickest way I could think of doing that was using Python, that's how I ended up creating this project.
+While doing a Tableau course, I came across this ETL process where I had to combine multiple CSV files and pivot them. Unfortunately, Tableau doesn't allow us to pivot data that comes from different connections. The quickest way I could think of doing that was using Python, that's how I ended up creating this project. There are multiple ways to tackle this within Python, I chose using PySpark since this can be easily scalable and is something new which I am trying to learn.
 
 ## Project Requirement
 
