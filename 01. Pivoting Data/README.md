@@ -14,7 +14,8 @@
 
 ### Additional Notes
 
-- I have used python list comprehensions for creating lists of DataFrames.
+- I have used Python list comprehensions for creating lists of DataFrames.
+- I have used Python Type Hints within functions.
 - I have used the "reduce" function to iterate over a list, resulting in one DataFrame in the end.
 
 ## Original Data
